@@ -32,3 +32,16 @@ body {
 .grid .four {
   background-color: darkolivegreen;
 }
+
+
+}
+
+.parent .one {
+  position: absolute;
+  top: 270px;
+  left: 190px;
+  color: rgba(243, 105, 63, 0.4);
+  font-size: 68px;
+}
+
+
