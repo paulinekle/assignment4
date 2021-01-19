@@ -18,7 +18,7 @@ body {
 }
 
 .grid .one {
-  background-color: #619B8A;
+  background-color: #FE7F2D;
 }
 
 .grid .two {
@@ -26,11 +26,11 @@ body {
 }
 
 .grid .three {
-  background-color: #FE7F2D;
+  background-color: rgba(17,0,33,24);
 }
 
 .grid .four {
-  background-color: #FCCA46;
+  background-color: #619B8A;
 }
 
 
