@@ -37,7 +37,7 @@ body {
   margin: auto;
   height: 600px;
   position: relative;
-  border: 1px solid black;
+  border: 10px solid black;
 }
 
 .parent .one {
