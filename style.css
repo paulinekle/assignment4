@@ -5,7 +5,9 @@ body {
   margin: 0;
 }
 
+.grid { display: flex; 
 
+}
 
 .grid div {
   flex: 1;
