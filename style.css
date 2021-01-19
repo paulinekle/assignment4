@@ -9,13 +9,6 @@ body {
   display: flex;
 }
 
-.grid div {
-  flex: 1;
-  height: 200px;
-  background-color: #cccccc;
-  margin: 20px;
-}
-
 .grid .one {
   background-color: #48D1CC;
 }
