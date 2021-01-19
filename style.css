@@ -41,3 +41,18 @@ margin: 100px;
 #flower-petals path{
   fill: rgba(255, 0, 0, 1);
 }
+#flower-petals {
+
+  animation-name: flower-rotate;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+@keyframes flower-rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {}
+  100% {
+    transform: rotate(360deg);
+  } 
+}
