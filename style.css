@@ -33,4 +33,11 @@ body {
   background-color: #619B8A;
 }
 
+.flower-box {
+width: 400px;
+margin: 100px;
 
+}
+#flower-petals path{
+  fill: rgba(255, 0, 0, 1);
+}
